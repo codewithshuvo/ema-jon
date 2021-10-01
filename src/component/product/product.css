@@ -1,0 +1,15 @@
+.product-containers{
+    display: flex;
+}
+
+.product-name{
+    color: blue;
+}
+.add-to-cart{
+    background-color: goldenrod;
+    font-weight: 300px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
